@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavitule&label=Profile%20views&color=0e75b6&style=flat" alt="pallavitule" /> </p>
 
-- 🔭 I’m currently working on **Open source Projects**
+- 🔭 I’m currently working on **Open source Projects.**
 
-- 🌱 I’m currently learning **Full stack .net development**
+- 🌱 I’m currently learning **Full stack .net development.**
 
 - 👯 I’m looking to collaborate on **on Frontend Projects.**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS.**
 
 - 📫 How to reach me **pallavitule00@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
